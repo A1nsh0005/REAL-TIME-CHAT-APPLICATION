@@ -87,3 +87,4 @@ By using WebSockets instead of traditional HTTP polling, the application achieve
 
 "OUTPUT"
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/bdd0fcdf-73c7-4985-9958-da4361958bb5" />
